@@ -1,1 +1,2 @@
 This is online change
+This is another online change. An offline change should come after this one. Okay?
