@@ -1,4 +1,8 @@
 This is online change
+<<<<<<< HEAD
 
 
 This is offline change after online change
+=======
+This is another online change. An offline change should come after this one. Okay?
+>>>>>>> 391c5a87280ede40687e5c92dbbbd6639389a427
